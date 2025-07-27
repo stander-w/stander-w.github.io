@@ -4,15 +4,15 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
-  favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  title: "stander-w"
+  site-url: https://stander-w.github.io
+  favicon: images/user.png
+  repo-url: https://github.com/stander-w/stander-w.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      [xxx](https://www.xxx)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
@@ -32,8 +32,8 @@ website:
         href: codes.qmd
       - text: "中文"
         href: Chinese.qmd
-      - text: "CV"
-        href: CV.pdf
+      # - text: "CV"
+      #   href: CV.pdf
 
 format:
   html:
